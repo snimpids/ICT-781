@@ -1,4 +1,4 @@
-# ICT-781
+# ICT 781-002
 Course notes and materials for ICT 781 - Python Level 1
 
 # Introduction
